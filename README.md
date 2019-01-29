@@ -1,6 +1,11 @@
 # pygplates-course
 
-This repository contains jupyter notebooks with exercises for the GPlates/pygplates USyd honours course, 2017. 
+NOTE: This repo contains completed notebooks for the pygplates course material created in 2017
+The notebooks used for the exercise (ie with some chunks of code omitted) can be found here:
+https://github.com/siwill22/pygplates-course
+
+
+The readme of the course repository is repeated here for completeness
 
 pygplates is a python library that allows scripting access to the plate tectonic reconstruction functionality of GPlates. The objective is to learn about quantitative spatiotemporal data analysis within a series of problems that involve pygplates, introducing some concepts related to: 
 - data analysis in python (array manipulation, writing loops and functions, plotting, accessing data from the web)
