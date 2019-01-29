@@ -1,6 +1,7 @@
 # pygplates-course
 
-NOTE: This repo contains completed notebooks for the pygplates course material created in 2017
+*NOTE:* This repo contains completed notebooks for the pygplates course material created in 2017
+
 The notebooks used for the exercise (ie with some chunks of code omitted) can be found here:
 https://github.com/siwill22/pygplates-course
 
