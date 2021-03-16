@@ -26,3 +26,7 @@ plate_polygons.shx
 Global_Paleoshorelines_Golonka.gpml
 .DS_Store
 my_reconstruction_file_for*
+tmp/tmp.dbf
+tmp/tmp.gmt
+tmp/tmp.shp
+tmp/tmp.shx
